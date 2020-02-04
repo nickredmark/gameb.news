@@ -11,7 +11,7 @@ This week in #gameb.
 - [The group has passed 1000 members!](https://www.facebook.com/groups/1447251258838263/permalink/2585286408368070/)
 - [Jordan Hall: "The spread of sensemaking on C-virus is unusually high"](https://www.facebook.com/phonomancer/posts/10156930645288479)
 - [Daniel Schmachtenberger: "Research help sought"](https://www.facebook.com/geosol114/posts/10158027095796779)
-- [VidChat Match Maker](https://www.facebook.com/groups/1447251258838263/permalink/2589110197985691/)
+- [Jim Rutt: VidChat Match Maker](https://www.facebook.com/groups/1447251258838263/permalink/2589110197985691/)
 - [Jubilee: "If you have not been on video calls with game b people, why not?"](https://www.facebook.com/groups/1447251258838263/permalink/2586125731617471/)
 
 ## Twitter
