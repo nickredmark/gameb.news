@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Game B News`,
+    author: `Game Bee`,
+    description: `Weekly Game~B news.`,
+    siteUrl: `https://gameb.news/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `HelpfulGameBee`,
     },
   },
   plugins: [
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/bee.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
