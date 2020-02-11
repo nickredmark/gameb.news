@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
+import ResponsiveEmbed from "react-responsive-embed"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -60,7 +61,17 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer></footer>
+      <footer>
+        <ResponsiveEmbed
+          className="newsletter"
+          title="newsletter"
+          width="480"
+          height="320"
+          src="https://gamebee.substack.com/embed"
+          frameborder="0"
+          scrolling="no"
+        ></ResponsiveEmbed>
+      </footer>
     </div>
   )
 }
