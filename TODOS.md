@@ -1,4 +1,4 @@
-# How to create an issue
+# How to create a weekly
 
 Every week search through news from the past weeks in the links below:
 
