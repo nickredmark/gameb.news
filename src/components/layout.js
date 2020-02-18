@@ -68,7 +68,7 @@ const Layout = ({ location, title, children }) => {
           width="480"
           height="320"
           src="https://gamebee.substack.com/embed"
-          frameborder="0"
+          frameBorder="0"
           scrolling="no"
         ></ResponsiveEmbed>
       </footer>
